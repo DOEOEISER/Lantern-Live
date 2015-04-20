@@ -203,7 +203,7 @@ lanternControllers.controller('OutageListCtrl', ['$scope', '$rootScope', '$http'
 
 ```
 
-###Partials directory### - The partials directory contains HTML fragment files that are pulled in via the angular.js framework.  These fragments are used by the same controller functions mentioned earlier:  Main, Search, StationList, StationMap, OutageList, OutageMap, Alternative Fuel, Tips, About and Terms.  
+**Partials directory** - The partials directory contains HTML fragment files that are pulled in via the angular.js framework.  These fragments are used by the same controller functions mentioned earlier:  Main, Search, StationList, StationMap, OutageList, OutageMap, Alternative Fuel, Tips, About and Terms.  
 
 ```html
 <div class="outages">
@@ -223,9 +223,9 @@ lanternControllers.controller('OutageListCtrl', ['$scope', '$rootScope', '$http'
 
 ```
 
-###Tips directory### - The tips direcory contains a set of HTML pages that provide useful information for users.   These pages unlike the partials mentioned above are complete web pages that are displayed in a Web View inside the app.   We've included the base files used in the Lantern Live app but you can modify / add / delete as you see fit.
+##License Information## 
 
-
+Need to add license information.
 
 
   
