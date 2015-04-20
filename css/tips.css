@@ -1,0 +1,28 @@
+body {
+	background: #fff;
+	font-family: 'open_sansregular';
+	color: #434a4f;
+	-webkit-overflow-scrolling: touch;
+}
+
+a, a:link, a:active, a:visited, a:hover {
+	color: #f18425 !important;
+}
+
+li {
+	text-decoration: none;
+	margin-left: -1em;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+h4 {
+	text-transform: uppercase;
+	border-bottom: 1px solid #EDEDED;
+}
+
+ul {
+	text-decoration: none;
+}
