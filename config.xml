@@ -4,7 +4,7 @@
 		<name>Lantern Live</name>
 		<description>Power outage utility</description>
 		<!-- Add Your author information below -->
-		<author href="http://YOURURL.COM" email="YOUREMAIL">Department of Energy</author>
+		<author href="http://YOURURL.COM" email="YOUREMAIL">Your Company</author>
 		<preference name="phonegap-version" value="3.6.3" />
 		<preference name="permissions" value="none"/>
 		<preference name="orientation" value="default" />

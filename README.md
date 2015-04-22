@@ -223,7 +223,7 @@ lanternControllers.controller('OutageListCtrl', ['$scope', '$rootScope', '$http'
 
 ```
 
-##License Information## 
+##License Information
 
 Need to add license information.
 
