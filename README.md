@@ -223,9 +223,9 @@ lanternControllers.controller('OutageListCtrl', ['$scope', '$rootScope', '$http'
 
 ```
 
-##License Information
+##Copyright Information
 
-Need to add license information.
+Copyright (c) 2015 U.S. Government (U.S. Department of Energy transferred by assignment pursuant to 17 USC 105)
 
 
   

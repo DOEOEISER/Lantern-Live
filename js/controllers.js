@@ -1,3 +1,8 @@
+/*
+*
+* Copyright (c) 2015 U.S. Government (U.S. Department of Energy transferred by assignment pursuant to 17 USC 105)
+*
+*/
 (function () {
    'use strict';
 }());

@@ -1,4 +1,7 @@
 /*
+*
+* Copyright (c) 2015 U.S. Government (U.S. Department of Energy transferred by assignment pursuant to 17 USC 105)
+*
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
  * distributed with this work for additional information
